@@ -1,11 +1,11 @@
-#adjust { margin-left: 190px}
+#adjust { margin-left: 190px; color:white }  
 #adjust2 { margin-left: 60px}
 #cv-entete { margin-top: -45px; width: 100%;}
 #cv-photo { float: left;
-    width: 120px;
-    margin-right: 20px;
-    border-radius: 10px;
-    animation: load 1s 1;}
+            width: 120px;
+            margin-right: 20px;
+            border-radius: 10px;
+            animation: load 1s 1;}
 #cv-photo img { width: 160px; height: 160px; border-radius: 50%; }
 #cv-intro h1 { margin: 0; padding: 0; font-size: 2.4em; font-weight: 700;
                letter-spacing: -1px;}
@@ -14,3 +14,12 @@
  dossier de "css" (à créer) */
                    width: 100%; height: 3px; margin-top: 15px; content: ''; display: block;}
 
+.jumbotron {    
+    background: url("../icons/datacenter.jpg");
+}
+
+
+
+h1 {
+    color:white
+}

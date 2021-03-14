@@ -3,4 +3,10 @@
 @media (min-width: 768px) {
  .bd-placeholder-img-lg { font-size: 3.5rem; }
 }
-.jumbotron { margin-bottom: 0px; } 
+.jumbotron { margin-bottom: 0px; background: url("../icons/datacenter.jpg");} 
+h1 {
+    color:white
+}
+.text-muted {
+    color: white!important;
+}

@@ -1,6 +1,6 @@
 
 body { padding-top: 50px; }
-.cadreCV { padding-bottom: 15px; background: white; }
+.cadreCV { padding-bottom: 15px;  background: #0062cc;; }
 /****************************************
 * En-tête du CV
 ****************************************/
@@ -32,7 +32,7 @@ body { padding-top: 50px; }
 #parcours .date .glyphicon-record::before { background: #FFFFFF; color: #555; }
 #parcours .date { width: 75px; background-color: rgba(0, 0, 0, 0); font-size: 1.5em;
                   font-weight: 700; display: inline-block; }
-#parcours .details { width: 325px; display: inline-block; background: #eee;
+#parcours .details { width: 325px; display: inline-block; background: #f8f9fa30;
                      position: relative; padding: 10px 10px 0 10px;
                      border-bottom: 1px solid #ddd; margin: -4px -12px 20px 0; }
 #parcours .details::after { content: ''; position: absolute; top: 15px; right: 0;
@@ -99,4 +99,14 @@ body { padding-top: 50px; }
 .iconSize {
     width: 32px;
     margin-right: 10px;
+}
+.jumbotron {    
+background: url("../icons/datacenter.jpg");
+}
+
+.col-9 {
+border: 3px #212529 solid ;
+}
+body {
+    color: #f8f9fa;
 }
