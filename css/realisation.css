@@ -12,5 +12,15 @@ h1 {
 }
 .entravaux {
     color:white;
-    block-size: 900px;
+    
+}
+.iconSize {
+    width: 120px;
+    margin-right: 10px;
+    display: block;
+}
+.alertee {
+    color:white;
+    font-size: 60px;
+        
 }
