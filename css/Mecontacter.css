@@ -1,0 +1,15 @@
+#contents {
+    background: #014792;
+    padding: 10px;
+    border: 2px white solid;
+    width: 50%;
+    margin: auto;
+    margin-top: 40px; 
+}
+.meContacter a {
+    font-size: 20px;
+    font-weight: bold;
+}
+body {
+    color: #8f8888;
+}
