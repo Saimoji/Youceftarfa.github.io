@@ -104,9 +104,11 @@ body { padding-top: 50px; }
 background: url("../icons/datacenter.jpg");
 }
 
-.col-9 {
+.tableau {
 border: 3px #212529 solid ;
+width: 80%
 }
 body {
     color: #f8f9fa;
+    
 }
