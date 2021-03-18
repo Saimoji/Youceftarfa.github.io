@@ -18,7 +18,7 @@ body { padding-top: 50px; }
 * Rubriques
 ****************************************/
 .rubrique { margin-bottom: 15px; }
-.rubrique h2 { color: rgb(226,0,26); }
+.rubrique h2 { color: #00e434; }
 .rubrique h2::before{ margin-right: 5px; }
 .rubrique p{ font-size: 1.3em; line-height: 1.5em; } 
 /******************************************
@@ -105,8 +105,9 @@ background: url("../icons/datacenter.jpg");
 }
 
 .tableau {
-border: 3px #212529 solid ;
-width: 80%
+    border: 3px #212529 solid;
+    width: 100%;
+    margin: 0px 160px;
 }
 body {
     color: #f8f9fa;
